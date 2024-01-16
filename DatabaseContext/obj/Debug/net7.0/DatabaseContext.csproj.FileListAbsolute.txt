@@ -1,0 +1,17 @@
+C:\Users\andre\OneDrive\env\RiderProjects\SQLTempV2\DatabaseContext\bin\Debug\net7.0\DatabaseContext.deps.json
+C:\Users\andre\OneDrive\env\RiderProjects\SQLTempV2\DatabaseContext\bin\Debug\net7.0\DatabaseContext.dll
+C:\Users\andre\OneDrive\env\RiderProjects\SQLTempV2\DatabaseContext\bin\Debug\net7.0\DatabaseContext.pdb
+C:\Users\andre\OneDrive\env\RiderProjects\SQLTempV2\DatabaseContext\obj\Debug\net7.0\DatabaseContext.csproj.AssemblyReference.cache
+C:\Users\andre\OneDrive\env\RiderProjects\SQLTempV2\DatabaseContext\obj\Debug\net7.0\DatabaseContext.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\andre\OneDrive\env\RiderProjects\SQLTempV2\DatabaseContext\obj\Debug\net7.0\DatabaseContext.AssemblyInfoInputs.cache
+C:\Users\andre\OneDrive\env\RiderProjects\SQLTempV2\DatabaseContext\obj\Debug\net7.0\DatabaseContext.AssemblyInfo.cs
+C:\Users\andre\OneDrive\env\RiderProjects\SQLTempV2\DatabaseContext\obj\Debug\net7.0\DatabaseContext.csproj.CoreCompileInputs.cache
+C:\Users\andre\OneDrive\env\RiderProjects\SQLTempV2\DatabaseContext\obj\Debug\net7.0\DatabaseContext.dll
+C:\Users\andre\OneDrive\env\RiderProjects\SQLTempV2\DatabaseContext\obj\Debug\net7.0\refint\DatabaseContext.dll
+C:\Users\andre\OneDrive\env\RiderProjects\SQLTempV2\DatabaseContext\obj\Debug\net7.0\DatabaseContext.pdb
+C:\Users\andre\OneDrive\env\RiderProjects\SQLTempV2\DatabaseContext\obj\Debug\net7.0\ref\DatabaseContext.dll
+C:\Users\andre\OneDrive\env\RiderProjects\SQLTempV2\DatabaseContext\bin\Debug\net7.0\DatabaseModels.dll
+C:\Users\andre\OneDrive\env\RiderProjects\SQLTempV2\DatabaseContext\bin\Debug\net7.0\DatabaseModels.pdb
+C:\Users\andre\OneDrive\env\RiderProjects\SQLTempV2\DatabaseContext\obj\Debug\net7.0\DatabaseContext.csproj.CopyComplete
+C:\Users\andre\OneDrive\env\RiderProjects\SQLTempV2\databasecontext\bin\Debug\net7.0\DatabaseContext.runtimeconfig.json
+C:\Users\andre\OneDrive\env\RiderProjects\SQLTempV2\databasecontext\obj\Debug\net7.0\DatabaseContext.genruntimeconfig.cache

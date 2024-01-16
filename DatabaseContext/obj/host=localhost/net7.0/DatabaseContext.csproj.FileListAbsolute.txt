@@ -1,0 +1,5 @@
+C:\Users\andre\OneDrive\env\RiderProjects\SQLTempV2\databasecontext\obj\host=localhost\net7.0\DatabaseContext.csproj.AssemblyReference.cache
+C:\Users\andre\OneDrive\env\RiderProjects\SQLTempV2\databasecontext\obj\host=localhost\net7.0\DatabaseContext.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\andre\OneDrive\env\RiderProjects\SQLTempV2\databasecontext\obj\host=localhost\net7.0\DatabaseContext.AssemblyInfoInputs.cache
+C:\Users\andre\OneDrive\env\RiderProjects\SQLTempV2\databasecontext\obj\host=localhost\net7.0\DatabaseContext.AssemblyInfo.cs
+C:\Users\andre\OneDrive\env\RiderProjects\SQLTempV2\databasecontext\obj\host=localhost\net7.0\DatabaseContext.csproj.CoreCompileInputs.cache
